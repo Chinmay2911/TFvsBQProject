@@ -6,7 +6,7 @@ Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
 
 ## Live demo
 
-Check the live demo here 👉️ []()
+Check the live demo here 👉️ [Tensorflow Vs Bigquery](https://tensorflowvsbigquery.netlify.app/)
 
 ### Getting Started
 
