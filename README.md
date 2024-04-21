@@ -2,11 +2,13 @@
 
 The objective of this project is to comprehensively assess and contrast two prominent big data solutions, namely TensorFlow and Google BigQuery. This comparison will delve into crucial factors such as performance, scalability, ease of use, integration capabilities, and cost-effectiveness concerning execution time, memory usage, and overall resource management.
 
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+Created with ❤️ by [Cruip.com](https://cruip.com/).
 
 ## Live demo
 
 Check the live demo here 👉️ [Tensorflow Vs Bigquery](https://tensorflowvsbigquery.netlify.app/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftensorflowvsbigquery.netlify.app&count_bg=%233A71FA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Getting Started
 
